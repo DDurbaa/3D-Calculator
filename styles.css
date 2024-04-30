@@ -1,6 +1,6 @@
 html, body {
-  height: 100%; /* Zajistí, že html a body budou mít plnou výšku okna prohlížeče */
+  height: 100%; 
   margin: 0;
-  padding: 0; /* Odstranění defaultního paddingu */
-  overflow: hidden; /* Zabrání scrollování celé stránky */
+  padding: 0; 
+  overflow: hidden; 
 }
