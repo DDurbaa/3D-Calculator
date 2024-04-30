@@ -1,1 +1,1 @@
-# 3D-Calculator made in Three-js
+# 3D-Calculator made with Three-js
